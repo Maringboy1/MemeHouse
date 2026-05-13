@@ -176,7 +176,6 @@ const STUDENTS = [
   { name: "KONING MOSHILNING",
     roll: "NDUIBC2476", course: "BCA (4 Years)", section: "Section A",
     meme: "./images/komo.webp", reason:  "F"},
-    meme: null, reason: null },
   { name: "CHONGTHAM IDEA SINGH",
     roll: "NDUIBC2477", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
